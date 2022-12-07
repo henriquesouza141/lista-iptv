@@ -1,0 +1,60 @@
+#EXTM3U url-tvg="http://grade-de-programacao.xml"
+
+############## música #################  
+#EXTINF:-1 tvg-id="iddocanaldemusica" group-title="Música" tvg-name="Nome oficial do canal de música" tvg-logo="http://logo-do-canal-de-esportes.jpg",Nome do canal de música na playlist
+http://transmissao-do-canal-de-musica.m3u8
+
+############## esportes #################
+#EXTINF:-1 tvg-id="iddocanaldeesportes" group-title="Esportes" tvg-name="Nome oficial do canal de esportes" tvg-logo="http://logo-do-canal-de-esportes.png",Nome do canal de esportes na playlist
+http://transmissao-do-canal-de-esportes.m3u8
+
+############## culinária #################
+#EXTINF:-1 tvg-id="iddocanaldeculinaria" group-title="Culinária" tvg-name="Nome oficial do canal de culinária" tvg-logo="http://logo-do-canal-de-culinaria.jpg",Nome do canal de culinária na sua playlist
+http://transmissao-do-canal-de-culinaria.ts
+
+############## Canais #################
+#EXTINF:-1 tvg-id="1" group-title="Canais" tvg-name="Religioso" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf64a6c1f59709514cf0d763b6c0faa6.webp", Rede TV Ao Vivo 1
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="2" group-title="Culinária" tvg-name="Religioso" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf64a6c1f59709514cf0d763b6c0faa6.webp", Rede TV Ao Vivo 2
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist_w117952126_b1626314.m3u8
+
+#EXTINF:-1 tvg-id="3" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", TV Diário Ao Vivo
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb7eH8Op9TCoZu9j6_x3Rrfm5HoRi6YQ-iM4f_cld8ICobs8RstWzROLamIto8puMkA&dmTs=727505&dmV1st=8DFF3BD521B9DBD43DCDCCC33399CE52
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Record News Ao Vivo
+https://www.dailymotion.com/cdn/live/video/x7txn7q.m3u8?sec=t_PYHxOIM2UxDiz8qz8Tb7eH8Op9TCoZu9j6_x3Rrfm5HoRi6YQ-iM4f_cld8ICobs8RstWzROLamIto8puMkA&dmTs=727505&dmV1st=8DFF3BD521B9DBD43DCDCCC33399CE52
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Canal Rural Ao Vivo
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Canal Rural Ao Vivo 2
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1640843099_b1065000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Jetsons Tv Ao Vivo 1
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w1668876173.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Jetsons Tv Ao Vivo 2
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", XTreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w132699312.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", XTreme 2
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist_w132699312.m3u8
+
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Tv Brasil
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Tv Cultura 1
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w716753972.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Tv Cultura 2
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Tv Futura 1
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w489936120.m3u8
+
+#EXTINF:-1 tvg-id="4" group-title="Canais" tvg-name="canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c44a8bd6e3634b22e307678c4f21d127.webp", Futura 2
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
